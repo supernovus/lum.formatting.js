@@ -5,8 +5,8 @@
   "exports":
   {
     ".": "./lib/index.js",
-    "./json/": "./lib/json.js",
-    "./xml/": "./lib/xml.js",
+    "./json": "./lib/json.js",
+    "./xml": "./lib/xml.js",
     "./package.json": "./package.json"
   },
   "license": "MIT",
